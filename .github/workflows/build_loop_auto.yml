@@ -244,12 +244,10 @@ jobs:
           override_sens \
           now_line \
           watch_title \
-          2hlollipop \
           meal_days \
           cgm_sensor_notes \
           profiles \
           negative_insulin \
-          remote_window \
           remote_carb_edit \
 
 
